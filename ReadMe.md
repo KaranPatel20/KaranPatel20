@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision and Image Classification projects<br>👯 I’m looking to collaborate on Machine Learning/AI projects<br>🌱 I’m currently learning Machine Learning and Data Analytics<br>💬 Ask me about my work<br>⚡ Fun fact: 
-
+🔭 I’m currently working on Computer Vision and Image Classification projects<br>👯 I’m looking to collaborate on Machine Learning/AI projects<br>🌱 I’m currently learning Machine Learning and Data Analytics<br>💬 Ask me about my work
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karanpatel20120/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@karanpatel20) 
